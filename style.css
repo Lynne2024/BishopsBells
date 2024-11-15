@@ -12,3 +12,7 @@ h1{ color:#00B0F0;
 body{
     background-image: url("images/background.jpg");
 }
+
+footer{
+    align-content: center;
+}
