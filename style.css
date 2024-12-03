@@ -9,6 +9,9 @@ h1{ color:#00B0F0;
 
 }
 
+h3{
+    color:blue;
+}
 body{
     background-image: url("images/background.jpg");
 }
@@ -23,3 +26,4 @@ footer img{
     padding-left: 20px;
     padding-right: 20px
 }
+
