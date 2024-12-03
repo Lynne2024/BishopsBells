@@ -18,3 +18,7 @@ footer{
     font-variant: small-caps;
     padding-top: 10px;
 }
+
+footer img{
+    padding: 5px;
+}
